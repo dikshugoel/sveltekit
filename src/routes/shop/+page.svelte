@@ -8,7 +8,7 @@
     {#each products as product}
     <div class="p-4 bg-teal-900 rounded-lg">
         <h2 class="text-lg font-bold leading-tight text-white">
-            <a href="/shop/{product?.id}">{product?.title}</a></h2>
+            <a data-sveltekit-prefetch href="/shop/{product?.id}">{product?.title}</a></h2>
         <p class="mt-2 text-white">{product?.price}</p>
     </div>
     {/each}  
