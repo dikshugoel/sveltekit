@@ -56,3 +56,12 @@ To publish your library to [npm](https://www.npmjs.com):
 ```bash
 npm publish
 ```
+
+#1 Loading data in sveltekit (/shop)
+#2 Dynamic Routes & Slugs with Route param (/shop/[productID])
+#3 Form Actions (/contact)
+lib/components/ContactsTable.svelte
+#4 API routes and endpoints (/api/posts/+server.js) (/api/posts/[postId]+server.js)
+(posts/+page.js) (posts/[postId]/+page.js)
+Thunder client
+#5
