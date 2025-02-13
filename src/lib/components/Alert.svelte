@@ -1,6 +1,6 @@
 <script>
 	export let message;
-	console.log(message);
+	//console.log(message);
 </script>
 
 <div class="alert alert-error shadow-lg max-w-xs mt-4">

@@ -5,7 +5,7 @@
 
     export let data;
     export let formData;
-    console.log(formData)
+    //console.log(formData)
 </script>
 
 <div class="p-8 mt-8 max-w-xl mx-auto">
