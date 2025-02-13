@@ -1,7 +1,6 @@
 <script>
 	export let data;
     const product = data.products;
-    console.log(product)
 </script>
 
 <div class="grid grid-cols-2 gap-2 sm:grid-cols-4 m-2">
