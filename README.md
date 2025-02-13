@@ -64,4 +64,6 @@ lib/components/ContactsTable.svelte
 #4 API routes and endpoints (/api/posts/+server.js) (/api/posts/[postId]+server.js)
 (posts/+page.js) (posts/[postId]/+page.js)
 Thunder client
-#5
+#5 Layout -> Nesting /settings
+use of +page@.svelte for root layout for single
+use of +layout@.svelte for root layout for multiple
