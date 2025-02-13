@@ -5,5 +5,6 @@
 	<a href="/">Home</a>
 	<a href="/shop" data-sveltekit-prefetch>Shop</a>
 	<a href="/movies" data-sveltekit-prefetch>Movies</a>
+	<a href="/contact" data-sveltekit-prefetch>Contact</a>
 </nav>
 <slot />
